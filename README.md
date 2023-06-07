@@ -8,4 +8,4 @@ Performance basics are covered: assets are minified into single CSS and JS files
 
 ## Misc:
 
-* Follow : [Twitter](https://twitter.com/), [GitHub](https://github.com/)
+* Follow : [Twitter](https://twitter.com/), [GitHub](https://github.com/Banisaputra)
