@@ -854,6 +854,7 @@ body {
 }
 .work--lockup .slider--item-image img {
   width: 100%;
+  height: -webkit-fill-available;
 }
 .work--lockup .slider--item-left {
   top: 50%;
